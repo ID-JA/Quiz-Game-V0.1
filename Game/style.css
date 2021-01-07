@@ -1,0 +1,99 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: #c6e2e9;
+}
+
+.container {
+  width: 70%;
+  color: #0b1b2d;
+  background-color: #aec9e5;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3rem 3rem;
+}
+.counters {
+  display: flex;
+  justify-content: space-around;
+}
+.counter,
+.score-title {
+  font-size: 1.3em;
+  font-weight: bolder;
+}
+
+.title {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-top: 1rem;
+}
+
+.question {
+  font-size: 1.5em;
+  margin-bottom: 0.8rem;
+}
+
+input[type='radio'] {
+  transform: scale(1.5);
+}
+
+.choix {
+  width: 80%;
+  background-color: #beb1ba;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 1em;
+  margin-bottom: 1em;
+  margin-left: 2rem;
+  border-radius: 10px;
+  box-shadow: inset 3px 2px 11px black;
+}
+
+.choix span {
+  margin-left: 1em;
+}
+
+.buttons {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+input[type='button'] {
+  width: 150px;
+  height: 50px;
+  font-size: 1.5em;
+  background-color: seashell;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+input[type='button']:active {
+  background-color: rgb(158, 154, 151);
+}
+
+.message {
+  font-size: 1.5em;
+  font-weight: bolder;
+  line-height: 50px;
+}
+
+.correct {
+  /* background-color: hsl(120, 81%, 46%); */
+  background-color: hsl(118, 99%, 64%);
+}
+
+.fail {
+  /* background-color: hsl(351, 81%, 46%); */
+  background-color: hsl(0, 99%, 64%);
+}

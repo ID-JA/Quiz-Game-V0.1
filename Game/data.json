@@ -1,0 +1,32 @@
+{
+  "questions": [
+    "What is 2 + 2 ?",
+    "What is the Capital of Morocco ?",
+    "What is the most popular name in the world ?",
+    "What is mean : USA ?"
+  ],
+  "answers": ["4", "Rabat", "Mohamed", " United States of America"],
+  "choises": [
+    {
+      "choix1": "5",
+      "choix2": "3",
+      "choix3": "4"
+    },
+    {
+      "choix1": "Rabat",
+      "choix2": "Timoulay",
+      "choix3": "Agadir"
+    },
+    {
+      "choix1": "Mark",
+      "choix2": "Ahmed",
+      "choix3": "Mohamed"
+    },
+    {
+      "choix1": "Union européenne",
+      "choix2": " United States of America",
+      "choix3": "America"
+    }
+  ],
+  "goodWords": ["Good Job", "Well Done", "Voila", "Good Choice"]
+}

@@ -4,4 +4,4 @@
 
 Quiz Game For Fun 
 By Idaissa Jamal 
-Html Css JavaScript
+. Html Css JavaScript

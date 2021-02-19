@@ -1,6 +1,6 @@
 # Quiz-Game-V0.1
 
-![alt text](https://www.wonderful-apps.com/wp-content/uploads/2020/10/02_preview_landing-678x381.jpg)
+![alt text](https://cdn1.vectorstock.com/i/1000x1000/00/70/quiz-game-test-exam-answer-education-learning-vector-25840070.jpg)
 
 Quiz Game For Fun 
 By Idaissa Jamal 
